@@ -1,0 +1,15 @@
+Comandos
+cd -> navegar entre as pastas
+cls/clear -> limpar a tela
+dir -> listar o conteúdo de uma pasta
+mkdir -> criar uma pasta em branco
+rm -> remover uma pasta vazia
+code . -> abrir o VS Code na pasta do projeto
+
+
+Ferramentas para desenvolver em React Native
+- Android Studio -> SDK e AVD
+- NodeJS
+- Visual Studio Code (editor de código) / Atom
+- Expo (framework) / Expo Go (instalar no celular)
+  - npm install --global expo-cli
